@@ -192,28 +192,9 @@ body h4{
     position: relative;
     height: 80vh;
 }
-.Section4Heading{
-    display: flex;
-    width: 100%;
-    justify-content: center;
+section label{
+    font-family: 'Anton', sans-serif;
 }
-.Section4Img{
-    display: flex;
-    justify-content: center;
-}
-.Section4Tit1{
-    position: absolute;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    top: 8%;
-    color:#62008E;
-}
-.Section4Tit2{
-    position: absolute;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    top: 24%;
-    color:#62008E;
+section button{
+    font-family: 'Anton', sans-serif;
 }
