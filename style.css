@@ -1,0 +1,219 @@
+body p{
+    font-family: 'Roboto', sans-serif;
+    color:#D4AF37;
+}
+body h1{
+    font-family: 'Anton', sans-serif; 
+    color:#D4AF37;
+}
+body h2{
+    font-family: 'Anton', sans-serif; 
+    color:#D4AF37;
+}
+body h3{
+    font-family: 'Anton', sans-serif; 
+    color:#D4AF37;
+}
+body h4{
+    font-family: 'Anton', sans-serif; 
+    color:#D4AF37;
+}
+.NavBar a{
+    font-family: 'Anton', sans-serif;
+    color: #62008E;
+}
+.Section1Heading{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.Section1 img{
+    display: flex;
+    width: 45%;
+    justify-content: center;
+}
+.Section1 p{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.Section1Content{
+    display: flex ;
+    justify-content: space-around;
+}
+.Section2Heading{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.Section2imgDiv1{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.Section2imgDiv1 img{
+    width: 35%;
+}
+.Section2TitDiv1{
+    width: 100%;
+    display: flex;
+}
+.Section2TitDiv1 h3{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.Section2TxtDiv1{
+    width: 100%;
+    display: flex;
+}
+.Section2TxtDiv1 p{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.Section2imgDiv2{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.Section2imgDiv2 img{
+    width: 35%;
+}
+.Section2TitDiv2{
+    width: 100%;
+    display: flex;
+}
+.Section2TitDiv2 h3{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.Section2TxtDiv2{
+    width: 100%;
+    display: flex;
+}
+.Section2TxtDiv2 p{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.Section3{
+    width: 100%;
+    display: flex;
+    
+}
+.Section3Heading{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.Section3AlbumT{
+    display: flex;
+    width: 100%;
+}
+.Section3AlbumT h3{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.Section3Vid1{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.Section3Vid1 video{
+    width: 40%;
+    display: flex;
+}
+.Section3Tit{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.Section3Vid2{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.Section3Vid2 video{
+    width: 80%;
+    display: flex;
+}
+.Section3Tit2{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.Section3Vid3{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.Section3Vid3 video{
+    width: 80%;
+    display: flex;
+}
+.Section3Tit3{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.Section3Vid4{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.Section3Vid4 video{
+    width: 80%;
+    display: flex;
+}
+.Section3Tit4{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.Section3Vid5{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.Section3Vid5 video{
+    width: 80%;
+    display: flex;
+}
+.Section3Tit5{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.Section4{
+    width: 100%;
+    position: relative;
+    height: 80vh;
+}
+.Section4Heading{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.Section4Img{
+    display: flex;
+    justify-content: center;
+}
+.Section4Tit1{
+    position: absolute;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    top: 8%;
+    color:#62008E;
+}
+.Section4Tit2{
+    position: absolute;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    top: 24%;
+    color:#62008E;
+}
