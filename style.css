@@ -190,11 +190,12 @@ body h4{
 .Section4{
     width: 100%;
     position: relative;
-    height: 80vh;
 }
 section label{
     font-family: 'Anton', sans-serif;
+    color:#62008E;
 }
 section button{
     font-family: 'Anton', sans-serif;
+    color:#62008E;
 }
